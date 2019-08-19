@@ -830,6 +830,7 @@ type    19
 dataset MULTI_T3_C3
 game    "multiplay/maps/6c-Melting.gam"
 
+
 level   Bambook-T1
 players 10
 type    14
@@ -1154,6 +1155,24 @@ type    19
 dataset MULTI_T3_C1
 game    "multiplay/maps/10c-Scramble.gam"
 
+level   TeamwarDirt5v5-T1
+players 10
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/10c-TeamwarDirt5v5.gam"
+
+level   TeamwarDirt5v5-T2
+players 10
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/10c-TeamwarDirt5v5.gam"
+
+level   TeamwarDirt5v5-T3
+players 10
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/10c-TeamwarDirt5v5.gam"
+
 level   TeamwarGrass1v9-T1
 players 10
 type    14
@@ -1171,6 +1190,60 @@ players 10
 type    19
 dataset MULTI_T3_C1
 game    "multiplay/maps/10c-TeamwarGrass1v9.gam"
+
+level   TeamwarGrass5v5-T1
+players 10
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/10c-TeamwarGrass5v5.gam"
+
+level   TeamwarGrass5v5-T2
+players 10
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/10c-TeamwarGrass5v5.gam"
+
+level   TeamwarGrass5v5-T3
+players 10
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/10c-TeamwarGrass5v5.gam"
+
+level   TeamwarRoad5v5-T1
+players 10
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/10c-TeamwarRoad5v5.gam"
+
+level   TeamwarRoad5v5-T2
+players 10
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/10c-TeamwarRoad5v5.gam"
+
+level   TeamwarRoad5v5-T3
+players 10
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/10c-TeamwarRoad5v5.gam"
+
+level   TeamwarSnow5v5-T1
+players 10
+type    14
+dataset MULTI_CAM_3
+game    "multiplay/maps/10c-TeamwarSnow5v5.gam"
+
+level   TeamwarSnow5v5-T2
+players 10
+type    18
+dataset MULTI_T2_C3
+game    "multiplay/maps/10c-TeamwarSnow5v5.gam"
+
+level   TeamwarSnow5v5-T3
+players 10
+type    19
+dataset MULTI_T3_C3
+game    "multiplay/maps/10c-TeamwarSnow5v5.gam"
 
 level   TeamwarWater5v5-T1
 players 10
@@ -2107,6 +2180,24 @@ players 2
 type    19
 dataset MULTI_T3_C1
 game    "multiplay/maps/2c-Sunlight.gam"
+
+level   TeamwarGrass1v1-T1
+players 2
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/2c-TeamwarGrass1v1.gam"
+
+level   TeamwarGrass1v1-T2
+players 2
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/2c-TeamwarGrass1v1.gam"
+
+level   TeamwarGrass1v1-T3
+players 2
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/2c-TeamwarGrass1v1.gam"
 
 level   Temple-T1
 players 2
@@ -3512,6 +3603,42 @@ type    19
 dataset MULTI_T3_C3
 game    "multiplay/maps/4c-Supremacy.gam"
 
+level   TeamwarDirt2v2-T1
+players 4
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/4c-TeamwarDirt2v2.gam"
+
+level   TeamwarDirt2v2-T2
+players 4
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/4c-TeamwarDirt2v2.gam"
+
+level   TeamwarDirt2v2-T3
+players 4
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/4c-TeamwarDirt2v2.gam"
+
+level   TeamwarGrass2v2-T1
+players 4
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/4c-TeamwarGrass2v2.gam"
+
+level   TeamwarGrass2v2-T2
+players 4
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/4c-TeamwarGrass2v2.gam"
+
+level   TeamwarGrass2v2-T3
+players 4
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/4c-TeamwarGrass2v2.gam"
+
 level   TeamwarRoad-T1
 players 4
 type    14
@@ -4340,6 +4467,78 @@ type    19
 dataset MULTI_T3_C3
 game    "multiplay/maps/6c-Snowfall.gam"
 
+level   TeamwarGrass2v4-T1
+players 6
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/6c-TeamwarGrass2v4.gam"
+
+level   TeamwarGrass2v4-T2
+players 6
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/6c-TeamwarGrass2v4.gam"
+
+level   TeamwarGrass2v4-T3
+players 6
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/6c-TeamwarGrass2v4.gam"
+
+level   TeamwarHills3v3-T1
+players 6
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/6c-TeamwarHills3v3.gam"
+
+level   TeamwarHills3v3-T2
+players 6
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/6c-TeamwarHills3v3.gam"
+
+level   TeamwarHills3v3-T3
+players 6
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/6c-TeamwarHills3v3.gam"
+
+level   TeamwarRoad3v3-T1
+players 6
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/6c-TeamwarRoad3v3.gam"
+
+level   TeamwarRoad3v3-T2
+players 6
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/6c-TeamwarRoad3v3.gam"
+
+level   TeamwarRoad3v3-T3
+players 6
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/6c-TeamwarRoad3v3.gam"
+
+level   TeamwarSnow3v3-T1
+players 6
+type    14
+dataset MULTI_CAM_3
+game    "multiplay/maps/6c-TeamwarSnow3v3.gam"
+
+level   TeamwarSnow3v3-T2
+players 6
+type    18
+dataset MULTI_T2_C3
+game    "multiplay/maps/6c-TeamwarSnow3v3.gam"
+
+level   TeamwarSnow3v3-T3
+players 6
+type    19
+dataset MULTI_T3_C3
+game    "multiplay/maps/6c-TeamwarSnow3v3.gam"
+
 level   TeamwarWater3v3-T1
 players 6
 type    14
@@ -4519,6 +4718,24 @@ players 7
 type    19
 dataset MULTI_T3_C1
 game    "multiplay/maps/7c-Lowlife.gam"
+
+level   TeamwarGrass2vs5-T1
+players 7
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/7c-TeamwarGrass2vs5.gam"
+
+level   TeamwarGrass2vs5-T2
+players 7
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/7c-TeamwarGrass2vs5.gam"
+
+level   TeamwarGrass2vs5-T3
+players 7
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/7c-TeamwarGrass2vs5.gam"
 
 level   Warpod-T1
 players 7
@@ -5275,6 +5492,42 @@ players 8
 type    19
 dataset MULTI_T3_C3
 game    "multiplay/maps/8c-TakeTheFort.gam"
+
+level   TeamwarDirt4v4-T1
+players 8
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/8c-TeamwarDirt4v4.gam"
+
+level   TeamwarDirt4v4-T2
+players 8
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/8c-TeamwarDirt4v4.gam"
+
+level   TeamwarDirt4v4-T3
+players 8
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/8c-TeamwarDirt4v4.gam"
+
+level   TeamwarGrass4v4-T1
+players 8
+type    14
+dataset MULTI_CAM_1
+game    "multiplay/maps/8c-TeamwarGrass4v4.gam"
+
+level   TeamwarGrass4v4-T2
+players 8
+type    18
+dataset MULTI_T2_C1
+game    "multiplay/maps/8c-TeamwarGrass4v4.gam"
+
+level   TeamwarGrass4v4-T3
+players 8
+type    19
+dataset MULTI_T3_C1
+game    "multiplay/maps/8c-TeamwarGrass4v4.gam"
 
 level   TeamwarMini-T1
 players 8
