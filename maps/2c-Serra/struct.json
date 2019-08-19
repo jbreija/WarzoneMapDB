@@ -1,0 +1,306 @@
+{
+    "structure_100": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            1920,
+            2304,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_102": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            1344,
+            1920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_103": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            2368,
+            1856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_105": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            1600,
+            1920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_107": {
+        "id": "A0LightFactory",
+        "modules": 0,
+        "name": "A0LightFactory",
+        "position": [
+            2368,
+            2368,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_108": {
+        "id": "A0PowerGenerator",
+        "modules": 1,
+        "name": "A0PowerGenerator",
+        "position": [
+            2816,
+            1920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_109": {
+        "id": "A0CommandCentre",
+        "modules": 0,
+        "name": "A0CommandCentre",
+        "position": [
+            1920,
+            1920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_79": {
+        "id": "A0CommandCentre",
+        "modules": 0,
+        "name": "A0CommandCentre",
+        "position": [
+            2560,
+            1280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_84": {
+        "id": "A0CommandCentre",
+        "modules": 0,
+        "name": "A0CommandCentre",
+        "position": [
+            8576,
+            8704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_85": {
+        "id": "A0BaBaFactory",
+        "modules": 0,
+        "name": "A0BaBaFactory",
+        "player": "scavenger",
+        "position": [
+            1536,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_86": {
+        "id": "A0BaBaFactory",
+        "modules": 0,
+        "name": "A0BaBaFactory",
+        "player": "scavenger",
+        "position": [
+            8704,
+            5440,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_87": {
+        "id": "A0ResearchFacility",
+        "modules": 0,
+        "name": "A0ResearchFacility",
+        "position": [
+            6912,
+            8832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_88": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            7296,
+            8832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_90": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            6720,
+            8448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_91": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            7744,
+            8384,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_93": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            6976,
+            8448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_95": {
+        "id": "A0LightFactory",
+        "modules": 0,
+        "name": "A0LightFactory",
+        "position": [
+            7744,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_96": {
+        "id": "A0PowerGenerator",
+        "modules": 1,
+        "name": "A0PowerGenerator",
+        "position": [
+            8192,
+            8448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_99": {
+        "id": "A0ResearchFacility",
+        "modules": 0,
+        "name": "A0ResearchFacility",
+        "position": [
+            1536,
+            2304,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    }
+}

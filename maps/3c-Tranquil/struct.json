@@ -1,0 +1,2136 @@
+{
+    "structure_100": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            960,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_101": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            448,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_103": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            1088,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_104": {
+        "id": "A0HardcreteMk1CWall",
+        "modules": 0,
+        "name": "A0HardcreteMk1CWall",
+        "position": [
+            1216,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_105": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            2880,
+            9536,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_106": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            1216,
+            9920,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_107": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            1216,
+            9792,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_108": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            1216,
+            9664,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_109": {
+        "id": "A0CommandCentre",
+        "modules": 0,
+        "name": "A0CommandCentre",
+        "position": [
+            2688,
+            11264,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_110": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            1984,
+            11200,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_113": {
+        "id": "A0PowerGenerator",
+        "modules": 1,
+        "name": "A0PowerGenerator",
+        "position": [
+            1408,
+            10496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_115": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            512,
+            10752,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_117": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            512,
+            11136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_119": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            1728,
+            10496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_120": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            2240,
+            10688,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_128": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            11328,
+            10560,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_129": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            10816,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_130": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            8512,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "wall/type": 0
+    },
+    "structure_131": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            9152,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "wall/type": 0
+    },
+    "structure_132": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            9280,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "wall/type": 0
+    },
+    "structure_133": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            9408,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "wall/type": 0
+    },
+    "structure_134": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            9024,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_135": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            8640,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_136": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            9024,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_137": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            8256,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_138": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            8256,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_139": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            8256,
+            9920,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "wall/type": 0
+    },
+    "structure_140": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            8256,
+            9280,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "wall/type": 0
+    },
+    "structure_141": {
+        "id": "A0CommandCentre",
+        "modules": 0,
+        "name": "A0CommandCentre",
+        "position": [
+            10240,
+            8960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_142": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            11072,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_145": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            11200,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_148": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            10560,
+            9088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_149": {
+        "id": "A0PowerGenerator",
+        "modules": 1,
+        "name": "A0PowerGenerator",
+        "position": [
+            10496,
+            8320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_151": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            11520,
+            9984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_153": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            11136,
+            10112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_159": {
+        "id": "PillBox4",
+        "modules": 0,
+        "name": "PillBox4",
+        "position": [
+            10688,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_160": {
+        "id": "PillBox4",
+        "modules": 0,
+        "name": "PillBox4",
+        "position": [
+            2368,
+            11200,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_161": {
+        "id": "PillBox4",
+        "modules": 0,
+        "name": "PillBox4",
+        "position": [
+            5184,
+            960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_366": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            4672,
+            6208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_367": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            5184,
+            5056,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_368": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            6208,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_369": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            7488,
+            6208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_370": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            6592,
+            5184,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_371": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            6336,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_372": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            6720,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_373": {
+        "id": "A0BaBaRocketPitAT",
+        "modules": 0,
+        "name": "A0BaBaRocketPitAT",
+        "player": "scavenger",
+        "position": [
+            6592,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_374": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            6592,
+            5056,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_375": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            6464,
+            5056,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_376": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            6720,
+            5056,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_377": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            7744,
+            5952,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_378": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            7744,
+            6208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_379": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            7488,
+            6080,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_380": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            6464,
+            5184,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_381": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            6976,
+            6720,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_382": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            7104,
+            6720,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_383": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            6848,
+            6720,
+            0
+        ],
+        "rotation": [
+            32768,
+            0,
+            0
+        ]
+    },
+    "structure_384": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            6592,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_385": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            6464,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_386": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            6464,
+            6720,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_387": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            6976,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_388": {
+        "id": "A0BaBaRocketPit",
+        "modules": 0,
+        "name": "A0BaBaRocketPit",
+        "player": "scavenger",
+        "position": [
+            6976,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_389": {
+        "id": "A0BaBaRocketPit",
+        "modules": 0,
+        "name": "A0BaBaRocketPit",
+        "player": "scavenger",
+        "position": [
+            6592,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_390": {
+        "id": "A0BaBaRocketPitAT",
+        "modules": 0,
+        "name": "A0BaBaRocketPitAT",
+        "player": "scavenger",
+        "position": [
+            7488,
+            5952,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_391": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            4288,
+            6976,
+            0
+        ],
+        "rotation": [
+            32768,
+            0,
+            0
+        ]
+    },
+    "structure_392": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            4416,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_393": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            4544,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_394": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            4672,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_395": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            4800,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_396": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            5056,
+            7232,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "structure_397": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            5056,
+            7488,
+            0
+        ],
+        "rotation": [
+            49152,
+            0,
+            0
+        ]
+    },
+    "structure_398": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            5056,
+            7360,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "structure_399": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            4800,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_400": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            4032,
+            7104,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_401": {
+        "id": "A0BaBaRocketPit",
+        "modules": 0,
+        "name": "A0BaBaRocketPit",
+        "player": "scavenger",
+        "position": [
+            4544,
+            7104,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_402": {
+        "id": "A0BaBaRocketPit",
+        "modules": 0,
+        "name": "A0BaBaRocketPit",
+        "player": "scavenger",
+        "position": [
+            4800,
+            7488,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_403": {
+        "id": "A0ResearchFacility",
+        "modules": 0,
+        "name": "A0ResearchFacility",
+        "player": "scavenger",
+        "position": [
+            6016,
+            6272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_404": {
+        "id": "A0BaBaPowerGenerator",
+        "modules": 0,
+        "name": "A0BaBaPowerGenerator",
+        "player": "scavenger",
+        "position": [
+            6336,
+            6080,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_406": {
+        "id": "A0BaBaFactory",
+        "modules": 0,
+        "name": "A0BaBaFactory",
+        "player": "scavenger",
+        "position": [
+            6400,
+            6336,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_407": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            576,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_408": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            448,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_409": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            704,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_410": {
+        "id": "A0BaBaGunTowerEND",
+        "modules": 0,
+        "name": "A0BaBaGunTowerEND",
+        "player": "scavenger",
+        "position": [
+            1088,
+            2624,
+            0
+        ],
+        "rotation": [
+            32768,
+            0,
+            0
+        ]
+    },
+    "structure_411": {
+        "id": "A0BaBaHorizontalWall",
+        "modules": 0,
+        "name": "A0BaBaHorizontalWall",
+        "player": "scavenger",
+        "position": [
+            1216,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_412": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            11200,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2
+    },
+    "structure_413": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            5184,
+            7616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_414": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            5568,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_415": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            6976,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_416": {
+        "id": "A0BaBaMortarPit",
+        "modules": 0,
+        "name": "A0BaBaMortarPit",
+        "player": "scavenger",
+        "position": [
+            576,
+            2112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_417": {
+        "id": "A0BaBaMortarPit",
+        "modules": 0,
+        "name": "A0BaBaMortarPit",
+        "player": "scavenger",
+        "position": [
+            1216,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_418": {
+        "id": "A0BaBaRocketPit",
+        "modules": 0,
+        "name": "A0BaBaRocketPit",
+        "player": "scavenger",
+        "position": [
+            1088,
+            2752,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_419": {
+        "id": "A0BaBaRocketPitAT",
+        "modules": 0,
+        "name": "A0BaBaRocketPitAT",
+        "player": "scavenger",
+        "position": [
+            832,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_420": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            576,
+            2496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_421": {
+        "id": "A0CannonTower",
+        "modules": 0,
+        "name": "A0CannonTower",
+        "player": "scavenger",
+        "position": [
+            1216,
+            2496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_422": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            832,
+            2368,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_423": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "player": "scavenger",
+        "position": [
+            576,
+            704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_424": {
+        "id": "A0BaBaPowerGenerator",
+        "modules": 0,
+        "name": "A0BaBaPowerGenerator",
+        "player": "scavenger",
+        "position": [
+            448,
+            960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_425": {
+        "id": "A0BaBaFactory",
+        "modules": 0,
+        "name": "A0BaBaFactory",
+        "player": "scavenger",
+        "position": [
+            896,
+            832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_426": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            576,
+            1344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_427": {
+        "id": "A0BaBaBunker",
+        "modules": 0,
+        "name": "A0BaBaBunker",
+        "player": "scavenger",
+        "position": [
+            960,
+            1216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure_54": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            5184,
+            704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_55": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            6720,
+            960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_56": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            3520,
+            832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_57": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            7488,
+            1344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "wall/type": 0
+    },
+    "structure_59": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            8000,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "wall/type": 0
+    },
+    "structure_60": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            7872,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_61": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            7616,
+            1344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_62": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            8128,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "wall/type": 0
+    },
+    "structure_63": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            4928,
+            2112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "wall/type": 0
+    },
+    "structure_64": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            4800,
+            2112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "wall/type": 0
+    },
+    "structure_66": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            4160,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "wall/type": 0
+    },
+    "structure_67": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            4288,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_68": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            4672,
+            2112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_69": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            9024,
+            1088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_70": {
+        "id": "A0PowerGenerator",
+        "modules": 1,
+        "name": "A0PowerGenerator",
+        "position": [
+            5632,
+            512,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_72": {
+        "id": "A0CommandCentre",
+        "modules": 0,
+        "name": "A0CommandCentre",
+        "position": [
+            4864,
+            768,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_73": {
+        "id": "A0CyborgFactory",
+        "modules": 0,
+        "name": "A0CyborgFactory",
+        "position": [
+            7488,
+            640,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_74": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            6464,
+            576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_77": {
+        "id": "A0LightFactory",
+        "modules": 2,
+        "name": "A0LightFactory",
+        "position": [
+            5568,
+            1088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_80": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            8064,
+            768,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_82": {
+        "id": "A0ResearchFacility",
+        "modules": 1,
+        "name": "A0ResearchFacility",
+        "position": [
+            8448,
+            768,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0
+    },
+    "structure_88": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            1344,
+            11584,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_89": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            3008,
+            11200,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_90": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            3008,
+            10304,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_91": {
+        "id": "A0ResourceExtractor",
+        "modules": 0,
+        "name": "A0ResourceExtractor",
+        "position": [
+            576,
+            10432,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_92": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            3648,
+            9920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_93": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            3008,
+            9920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_94": {
+        "id": "A0HardcreteMk1CWall",
+        "modules": 0,
+        "name": "A0HardcreteMk1CWall",
+        "position": [
+            2880,
+            9920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_95": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            2880,
+            9792,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_96": {
+        "id": "A0HardcreteMk1Wall",
+        "modules": 0,
+        "name": "A0HardcreteMk1Wall",
+        "position": [
+            2880,
+            9664,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "wall/type": 0
+    },
+    "structure_97": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            3136,
+            9920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_98": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            3520,
+            9920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    },
+    "structure_99": {
+        "id": "WallTower01",
+        "modules": 0,
+        "name": "WallTower01",
+        "position": [
+            576,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1
+    }
+}

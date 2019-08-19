@@ -1,0 +1,122 @@
+{
+    "droid_1033": {
+        "id": 1033,
+        "position": [
+            4928,
+            25408,
+            0
+        ],
+        "rotation": [
+            32768,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "SK-Bug-Hover-Sensor"
+    },
+    "droid_1034": {
+        "id": 1034,
+        "position": [
+            4928,
+            5952,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "SK-Bug-Hover-Sensor"
+    },
+    "droid_23": {
+        "id": 23,
+        "position": [
+            5312,
+            26816,
+            0
+        ],
+        "rotation": [
+            8192,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_24": {
+        "id": 24,
+        "position": [
+            4928,
+            26816,
+            0
+        ],
+        "rotation": [
+            57344,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_25": {
+        "id": 25,
+        "position": [
+            4928,
+            4416,
+            0
+        ],
+        "rotation": [
+            42780,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_26": {
+        "id": 26,
+        "position": [
+            5312,
+            4416,
+            0
+        ],
+        "rotation": [
+            24576,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_878": {
+        "id": 878,
+        "position": [
+            5056,
+            25408,
+            0
+        ],
+        "rotation": [
+            32768,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "CobraHoverTruck"
+    },
+    "droid_879": {
+        "id": 879,
+        "position": [
+            5056,
+            5952,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "CobraHoverTruck"
+    }
+}

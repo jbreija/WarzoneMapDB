@@ -1,0 +1,4412 @@
+{
+    "feature_1": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5696,
+            704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1164": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            2368,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1175": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            2752,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1176": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            2752,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1177": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2880,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1178": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            2880,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1179": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            2752,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1180": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            2624,
+            14144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1181": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            2624,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1182": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            2496,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1183": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            3520,
+            9024,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1185": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            5696,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1186": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            6976,
+            8512,
+            0
+        ],
+        "rotation": [
+            57708,
+            0,
+            0
+        ]
+    },
+    "feature_1188": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            6336,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1189": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5952,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1190": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            7872,
+            12224,
+            0
+        ],
+        "rotation": [
+            46785,
+            0,
+            0
+        ]
+    },
+    "feature_1191": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5440,
+            12992,
+            0
+        ],
+        "rotation": [
+            15292,
+            0,
+            0
+        ]
+    },
+    "feature_1192": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            3136,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1193": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            3904,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1194": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5952,
+            8768,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1195": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            7104,
+            12480,
+            0
+        ],
+        "rotation": [
+            41506,
+            0,
+            0
+        ]
+    },
+    "feature_1196": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            8768,
+            14528,
+            0
+        ],
+        "rotation": [
+            46603,
+            0,
+            0
+        ]
+    },
+    "feature_1197": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            5952,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1198": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8000,
+            14400,
+            0
+        ],
+        "rotation": [
+            51883,
+            0,
+            0
+        ]
+    },
+    "feature_1199": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            5824,
+            13248,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1201": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            6144,
+            13568,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1205": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5952,
+            8512,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1208": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            7104,
+            14144,
+            0
+        ],
+        "rotation": [
+            21845,
+            0,
+            0
+        ]
+    },
+    "feature_1210": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            5056,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1211": {
+        "id": "BarbWarehouse2",
+        "name": "BarbWarehouse2",
+        "position": [
+            5504,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1212": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            5568,
+            8768,
+            0
+        ],
+        "rotation": [
+            57890,
+            0,
+            0
+        ]
+    },
+    "feature_1213": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8384,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1214": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            6592,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1216": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            7616,
+            9024,
+            0
+        ],
+        "rotation": [
+            10741,
+            0,
+            0
+        ]
+    },
+    "feature_1220": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5696,
+            13248,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1221": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6080,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1222": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            7616,
+            14016,
+            0
+        ],
+        "rotation": [
+            10194,
+            0,
+            0
+        ]
+    },
+    "feature_1223": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4032,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1224": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4416,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1225": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4544,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1226": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8128,
+            12736,
+            0
+        ],
+        "rotation": [
+            36591,
+            0,
+            0
+        ]
+    },
+    "feature_1227": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            3008,
+            8384,
+            0
+        ],
+        "rotation": [
+            9284,
+            0,
+            0
+        ]
+    },
+    "feature_1228": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            4160,
+            13760,
+            0
+        ],
+        "rotation": [
+            182,
+            0,
+            0
+        ]
+    },
+    "feature_1229": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            5440,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1230": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            6720,
+            10688,
+            0
+        ],
+        "rotation": [
+            48424,
+            0,
+            0
+        ]
+    },
+    "feature_1231": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            6208,
+            9152,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1233": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            5824,
+            13120,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1234": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            6464,
+            11072,
+            0
+        ],
+        "rotation": [
+            55342,
+            0,
+            0
+        ]
+    },
+    "feature_1235": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8256,
+            10304,
+            0
+        ],
+        "rotation": [
+            44055,
+            0,
+            0
+        ]
+    },
+    "feature_1237": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            8128,
+            14912,
+            0
+        ],
+        "rotation": [
+            26214,
+            0,
+            0
+        ]
+    },
+    "feature_1240": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6080,
+            13888,
+            0
+        ],
+        "rotation": [
+            49152,
+            0,
+            0
+        ]
+    },
+    "feature_1241": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            6080,
+            8640,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1245": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            8896,
+            13120,
+            0
+        ],
+        "rotation": [
+            39322,
+            0,
+            0
+        ]
+    },
+    "feature_1246": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5824,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1247": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            6208,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1248": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            6208,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1249": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            2496,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1254": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5440,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1268": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6464,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1270": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            6592,
+            9664,
+            0
+        ],
+        "rotation": [
+            37683,
+            0,
+            0
+        ]
+    },
+    "feature_1274": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6336,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1276": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            5568,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1279": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5952,
+            8640,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1280": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            5568,
+            8512,
+            0
+        ],
+        "rotation": [
+            49516,
+            0,
+            0
+        ]
+    },
+    "feature_1281": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            6464,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1283": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            9408,
+            13120,
+            0
+        ],
+        "rotation": [
+            13107,
+            0,
+            0
+        ]
+    },
+    "feature_1286": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            5568,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1289": {
+        "id": "BarbWarehouse1",
+        "name": "BarbWarehouse1",
+        "position": [
+            4864,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1290": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            4608,
+            9344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1291": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4288,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1292": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4288,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1293": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4416,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1294": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4544,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1295": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4416,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1296": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4288,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1297": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4160,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1298": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4032,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1299": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            4032,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1300": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4160,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1301": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            3904,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1302": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            4928,
+            13120,
+            0
+        ],
+        "rotation": [
+            40778,
+            0,
+            0
+        ]
+    },
+    "feature_1304": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4032,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1305": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4800,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1306": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4928,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1307": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4928,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1308": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            7616,
+            9920,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_1309": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            3776,
+            9664,
+            0
+        ],
+        "rotation": [
+            4733,
+            0,
+            0
+        ]
+    },
+    "feature_1311": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5952,
+            9024,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1313": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            6848,
+            9152,
+            0
+        ],
+        "rotation": [
+            52065,
+            0,
+            0
+        ]
+    },
+    "feature_1314": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            7360,
+            9792,
+            0
+        ],
+        "rotation": [
+            58800,
+            0,
+            0
+        ]
+    },
+    "feature_1315": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            6080,
+            8256,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1318": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            4160,
+            14400,
+            0
+        ],
+        "rotation": [
+            5097,
+            0,
+            0
+        ]
+    },
+    "feature_1319": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3520,
+            9152,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1320": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3520,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1321": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            3392,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1322": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3392,
+            9152,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1323": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3520,
+            8640,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1324": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            5184,
+            8768,
+            0
+        ],
+        "rotation": [
+            58254,
+            0,
+            0
+        ]
+    },
+    "feature_1325": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            5184,
+            10432,
+            0
+        ],
+        "rotation": [
+            59711,
+            0,
+            0
+        ]
+    },
+    "feature_1326": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            2368,
+            10176,
+            0
+        ],
+        "rotation": [
+            58072,
+            0,
+            0
+        ]
+    },
+    "feature_1327": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            2368,
+            15296,
+            0
+        ],
+        "rotation": [
+            50972,
+            0,
+            0
+        ]
+    },
+    "feature_1328": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1344,
+            15168,
+            0
+        ],
+        "rotation": [
+            16202,
+            0,
+            0
+        ]
+    },
+    "feature_1330": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            5824,
+            13760,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1331": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4672,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1333": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3648,
+            14272,
+            0
+        ],
+        "rotation": [
+            2002,
+            0,
+            0
+        ]
+    },
+    "feature_1334": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            5824,
+            13376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1337": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5696,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1338": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            3008,
+            15168,
+            0
+        ],
+        "rotation": [
+            48606,
+            0,
+            0
+        ]
+    },
+    "feature_1339": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            448,
+            14784,
+            0
+        ],
+        "rotation": [
+            6736,
+            0,
+            0
+        ]
+    },
+    "feature_134": {
+        "id": "BarbWarehouse1",
+        "name": "BarbWarehouse1",
+        "position": [
+            5248,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1340": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            3264,
+            15296,
+            0
+        ],
+        "rotation": [
+            21117,
+            0,
+            0
+        ]
+    },
+    "feature_1341": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            9024,
+            14912,
+            0
+        ],
+        "rotation": [
+            55524,
+            0,
+            0
+        ]
+    },
+    "feature_1342": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            704,
+            11328,
+            0
+        ],
+        "rotation": [
+            10012,
+            0,
+            0
+        ]
+    },
+    "feature_1344": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            1216,
+            10432,
+            0
+        ],
+        "rotation": [
+            53339,
+            0,
+            0
+        ]
+    },
+    "feature_1345": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6592,
+            8384,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1346": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8384,
+            15424,
+            0
+        ],
+        "rotation": [
+            54249,
+            0,
+            0
+        ]
+    },
+    "feature_1347": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3520,
+            8768,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1348": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1216,
+            14400,
+            0
+        ],
+        "rotation": [
+            15292,
+            0,
+            0
+        ]
+    },
+    "feature_1351": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            7360,
+            13760,
+            0
+        ],
+        "rotation": [
+            12925,
+            0,
+            0
+        ]
+    },
+    "feature_1353": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            5440,
+            11456,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_1354": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3392,
+            10176,
+            0
+        ],
+        "rotation": [
+            29309,
+            0,
+            0
+        ]
+    },
+    "feature_1355": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            832,
+            13504,
+            0
+        ],
+        "rotation": [
+            48242,
+            0,
+            0
+        ]
+    },
+    "feature_1356": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            6208,
+            9280,
+            0
+        ],
+        "rotation": [
+            14199,
+            0,
+            0
+        ]
+    },
+    "feature_1357": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3648,
+            12224,
+            0
+        ],
+        "rotation": [
+            17658,
+            0,
+            0
+        ]
+    },
+    "feature_1359": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1984,
+            14144,
+            0
+        ],
+        "rotation": [
+            42598,
+            0,
+            0
+        ]
+    },
+    "feature_1360": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            5056,
+            8384,
+            0
+        ],
+        "rotation": [
+            54977,
+            0,
+            0
+        ]
+    },
+    "feature_1361": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            4288,
+            10944,
+            0
+        ],
+        "rotation": [
+            44419,
+            0,
+            0
+        ]
+    },
+    "feature_1362": {
+        "id": "BarbWarehouse2",
+        "name": "BarbWarehouse2",
+        "position": [
+            5760,
+            13632,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1363": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            5824,
+            9024,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1364": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4032,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1365": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1216,
+            13248,
+            0
+        ],
+        "rotation": [
+            2549,
+            0,
+            0
+        ]
+    },
+    "feature_1366": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            1472,
+            12608,
+            0
+        ],
+        "rotation": [
+            63351,
+            0,
+            0
+        ]
+    },
+    "feature_1367": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1856,
+            15040,
+            0
+        ],
+        "rotation": [
+            41506,
+            0,
+            0
+        ]
+    },
+    "feature_1368": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7488,
+            11072,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1369": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            576,
+            9408,
+            0
+        ],
+        "rotation": [
+            9466,
+            0,
+            0
+        ]
+    },
+    "feature_137": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            5504,
+            6912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1370": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1856,
+            13632,
+            0
+        ],
+        "rotation": [
+            36227,
+            0,
+            0
+        ]
+    },
+    "feature_1371": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            4800,
+            9280,
+            0
+        ],
+        "rotation": [
+            54249,
+            0,
+            0
+        ]
+    },
+    "feature_1372": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1472,
+            12096,
+            0
+        ],
+        "rotation": [
+            29127,
+            0,
+            0
+        ]
+    },
+    "feature_1373": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            2240,
+            13120,
+            0
+        ],
+        "rotation": [
+            910,
+            0,
+            0
+        ]
+    },
+    "feature_1374": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            6592,
+            12736,
+            0
+        ],
+        "rotation": [
+            32586,
+            0,
+            0
+        ]
+    },
+    "feature_1375": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            4800,
+            12608,
+            0
+        ],
+        "rotation": [
+            15656,
+            0,
+            0
+        ]
+    },
+    "feature_1376": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            4800,
+            8256,
+            0
+        ],
+        "rotation": [
+            20207,
+            0,
+            0
+        ]
+    },
+    "feature_1378": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            320,
+            11456,
+            0
+        ],
+        "rotation": [
+            52975,
+            0,
+            0
+        ]
+    },
+    "feature_138": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            5824,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1380": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6080,
+            8768,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1381": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            192,
+            13120,
+            0
+        ],
+        "rotation": [
+            4733,
+            0,
+            0
+        ]
+    },
+    "feature_1382": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            6592,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1384": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6464,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1385": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            5696,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1386": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            6592,
+            8512,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1387": {
+        "id": "BarbWarehouse2",
+        "name": "BarbWarehouse2",
+        "position": [
+            5248,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1388": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            9408,
+            11328,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_1389": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1856,
+            8256,
+            0
+        ],
+        "rotation": [
+            58800,
+            0,
+            0
+        ]
+    },
+    "feature_139": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            5824,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_140": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5696,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_141": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            5568,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_142": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5696,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_143": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5824,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_144": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            5952,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1442": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3392,
+            8128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1443": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            6720,
+            8128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1448": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4032,
+            6080,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1449": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4032,
+            5312,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_145": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            6080,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1450": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4032,
+            4544,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1451": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4032,
+            3776,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1452": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4032,
+            3008,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1453": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6080,
+            13248,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1454": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6080,
+            10944,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1455": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6080,
+            11712,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1456": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6080,
+            12480,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_1457": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6080,
+            10176,
+            0
+        ],
+        "rotation": [
+            16384,
+            0,
+            0
+        ]
+    },
+    "feature_146": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            6080,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_147": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5952,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_148": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            6080,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_149": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            6208,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_152": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            5312,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_153": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            5184,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_154": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5184,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_155": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            5312,
+            6976,
+            0
+        ],
+        "rotation": [
+            54249,
+            0,
+            0
+        ]
+    },
+    "feature_158": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            6336,
+            6592,
+            0
+        ],
+        "rotation": [
+            4733,
+            0,
+            0
+        ]
+    },
+    "feature_16": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            7360,
+            1600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_168": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6592,
+            7104,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_169": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6592,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_17": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            7360,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_170": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            6720,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_171": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            6720,
+            7104,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_172": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            6592,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_173": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6592,
+            7488,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_174": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6592,
+            7616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_18": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            7232,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_19": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            7232,
+            1600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_2": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6080,
+            704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_20": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            7360,
+            1728,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_21": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            7488,
+            2112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_22": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            7488,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_25": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            7616,
+            1344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_3": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6080,
+            1088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_34": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            5440,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_353": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            5312,
+            3648,
+            0
+        ],
+        "rotation": [
+            15656,
+            0,
+            0
+        ]
+    },
+    "feature_354": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            5952,
+            2496,
+            0
+        ],
+        "rotation": [
+            182,
+            0,
+            0
+        ]
+    },
+    "feature_355": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            6464,
+            1984,
+            0
+        ],
+        "rotation": [
+            2002,
+            0,
+            0
+        ]
+    },
+    "feature_356": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            7744,
+            960,
+            0
+        ],
+        "rotation": [
+            50972,
+            0,
+            0
+        ]
+    },
+    "feature_357": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            8256,
+            2624,
+            0
+        ],
+        "rotation": [
+            36227,
+            0,
+            0
+        ]
+    },
+    "feature_358": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            8640,
+            4160,
+            0
+        ],
+        "rotation": [
+            29127,
+            0,
+            0
+        ]
+    },
+    "feature_359": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            6464,
+            4032,
+            0
+        ],
+        "rotation": [
+            17658,
+            0,
+            0
+        ]
+    },
+    "feature_36": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6208,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_360": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            9280,
+            2752,
+            0
+        ],
+        "rotation": [
+            48242,
+            0,
+            0
+        ]
+    },
+    "feature_361": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            8896,
+            1856,
+            0
+        ],
+        "rotation": [
+            15292,
+            0,
+            0
+        ]
+    },
+    "feature_362": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            6720,
+            6080,
+            0
+        ],
+        "rotation": [
+            29309,
+            0,
+            0
+        ]
+    },
+    "feature_368": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            5312,
+            8000,
+            0
+        ],
+        "rotation": [
+            20207,
+            0,
+            0
+        ]
+    },
+    "feature_369": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            6976,
+            8128,
+            0
+        ],
+        "rotation": [
+            59893,
+            0,
+            0
+        ]
+    },
+    "feature_37": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            6976,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_370": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            9536,
+            6848,
+            0
+        ],
+        "rotation": [
+            9466,
+            0,
+            0
+        ]
+    },
+    "feature_372": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            8256,
+            8000,
+            0
+        ],
+        "rotation": [
+            58800,
+            0,
+            0
+        ]
+    },
+    "feature_379": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            5952,
+            1856,
+            0
+        ],
+        "rotation": [
+            5097,
+            0,
+            0
+        ]
+    },
+    "feature_380": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            7104,
+            1088,
+            0
+        ],
+        "rotation": [
+            48606,
+            0,
+            0
+        ]
+    },
+    "feature_381": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8128,
+            2112,
+            0
+        ],
+        "rotation": [
+            42598,
+            0,
+            0
+        ]
+    },
+    "feature_382": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8768,
+            1088,
+            0
+        ],
+        "rotation": [
+            16202,
+            0,
+            0
+        ]
+    },
+    "feature_383": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8896,
+            3008,
+            0
+        ],
+        "rotation": [
+            2549,
+            0,
+            0
+        ]
+    },
+    "feature_384": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            9408,
+            4928,
+            0
+        ],
+        "rotation": [
+            10012,
+            0,
+            0
+        ]
+    },
+    "feature_385": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            7744,
+            6080,
+            0
+        ],
+        "rotation": [
+            58072,
+            0,
+            0
+        ]
+    },
+    "feature_386": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            5824,
+            5312,
+            0
+        ],
+        "rotation": [
+            44419,
+            0,
+            0
+        ]
+    },
+    "feature_388": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            5696,
+            8128,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_390": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            8256,
+            1216,
+            0
+        ],
+        "rotation": [
+            41506,
+            0,
+            0
+        ]
+    },
+    "feature_391": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            7872,
+            3136,
+            0
+        ],
+        "rotation": [
+            910,
+            0,
+            0
+        ]
+    },
+    "feature_392": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            8640,
+            3648,
+            0
+        ],
+        "rotation": [
+            63351,
+            0,
+            0
+        ]
+    },
+    "feature_393": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            9920,
+            3136,
+            0
+        ],
+        "rotation": [
+            4733,
+            0,
+            0
+        ]
+    },
+    "feature_394": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            9792,
+            4800,
+            0
+        ],
+        "rotation": [
+            52975,
+            0,
+            0
+        ]
+    },
+    "feature_395": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            8896,
+            5824,
+            0
+        ],
+        "rotation": [
+            53339,
+            0,
+            0
+        ]
+    },
+    "feature_396": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            7104,
+            7872,
+            0
+        ],
+        "rotation": [
+            9284,
+            0,
+            0
+        ]
+    },
+    "feature_4": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5568,
+            1216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_406": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            6848,
+            960,
+            0
+        ],
+        "rotation": [
+            21117,
+            0,
+            0
+        ]
+    },
+    "feature_407": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            9664,
+            1472,
+            0
+        ],
+        "rotation": [
+            6736,
+            0,
+            0
+        ]
+    },
+    "feature_410": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            5184,
+            3136,
+            0
+        ],
+        "rotation": [
+            40778,
+            0,
+            0
+        ]
+    },
+    "feature_5": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7744,
+            1728,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_719": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            4416,
+            8128,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_727": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3136,
+            8128,
+            0
+        ],
+        "rotation": [
+            59893,
+            0,
+            0
+        ]
+    },
+    "feature_754": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            4288,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_755": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4416,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_757": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4288,
+            3008,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_758": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            3968,
+            2688,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_759": {
+        "id": "BarbWarehouse2",
+        "name": "BarbWarehouse2",
+        "position": [
+            4352,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_760": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4032,
+            2368,
+            0
+        ],
+        "rotation": [
+            49152,
+            0,
+            0
+        ]
+    },
+    "feature_761": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4416,
+            3008,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_762": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            2496,
+            2240,
+            0
+        ],
+        "rotation": [
+            10194,
+            0,
+            0
+        ]
+    },
+    "feature_776": {
+        "id": "Pylon",
+        "name": "Pylon",
+        "position": [
+            4672,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_778": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            3392,
+            5568,
+            0
+        ],
+        "rotation": [
+            48424,
+            0,
+            0
+        ]
+    },
+    "feature_779": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            4288,
+            2496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_809": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1728,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_810": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            1344,
+            1728,
+            0
+        ],
+        "rotation": [
+            46603,
+            0,
+            0
+        ]
+    },
+    "feature_812": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4416,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_813": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            3904,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_814": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            3648,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_815": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3776,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_816": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            3904,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_817": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3776,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_818": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3648,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_819": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3648,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_820": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            3520,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_822": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4288,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_823": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4160,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_824": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            4544,
+            7744,
+            0
+        ],
+        "rotation": [
+            49516,
+            0,
+            0
+        ]
+    },
+    "feature_825": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4160,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_826": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4416,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_827": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4672,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_828": {
+        "id": "BarbWarehouse2",
+        "name": "BarbWarehouse2",
+        "position": [
+            4608,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_830": {
+        "id": "BarbWarehouse2",
+        "name": "BarbWarehouse2",
+        "position": [
+            4864,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_831": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            5056,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_832": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            4544,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_833": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            4544,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_834": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3520,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_835": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            3520,
+            6592,
+            0
+        ],
+        "rotation": [
+            37683,
+            0,
+            0
+        ]
+    },
+    "feature_836": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3904,
+            7104,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_837": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            5056,
+            7872,
+            0
+        ],
+        "rotation": [
+            54977,
+            0,
+            0
+        ]
+    },
+    "feature_838": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4032,
+            7616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_839": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4160,
+            7488,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_840": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4160,
+            7616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_841": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4160,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_842": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            4160,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_843": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3520,
+            7872,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_844": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4032,
+            7488,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_845": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            4288,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_846": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            2112,
+            1856,
+            0
+        ],
+        "rotation": [
+            51883,
+            0,
+            0
+        ]
+    },
+    "feature_849": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1984,
+            3520,
+            0
+        ],
+        "rotation": [
+            36591,
+            0,
+            0
+        ]
+    },
+    "feature_850": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            4288,
+            3136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_851": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            704,
+            3136,
+            0
+        ],
+        "rotation": [
+            13107,
+            0,
+            0
+        ]
+    },
+    "feature_852": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            4928,
+            5824,
+            0
+        ],
+        "rotation": [
+            59711,
+            0,
+            0
+        ]
+    },
+    "feature_853": {
+        "id": "Crane",
+        "name": "Crane",
+        "position": [
+            3904,
+            6976,
+            0
+        ],
+        "rotation": [
+            14199,
+            0,
+            0
+        ]
+    },
+    "feature_854": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            3520,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_855": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            4032,
+            8000,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_856": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            2496,
+            7232,
+            0
+        ],
+        "rotation": [
+            10741,
+            0,
+            0
+        ]
+    },
+    "feature_858": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            2624,
+            5184,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_859": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3648,
+            5184,
+            0
+        ],
+        "rotation": [
+            55342,
+            0,
+            0
+        ]
+    },
+    "feature_860": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            3520,
+            3520,
+            0
+        ],
+        "rotation": [
+            32586,
+            0,
+            0
+        ]
+    },
+    "feature_861": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3008,
+            2112,
+            0
+        ],
+        "rotation": [
+            21845,
+            0,
+            0
+        ]
+    },
+    "feature_863": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1984,
+            1344,
+            0
+        ],
+        "rotation": [
+            26214,
+            0,
+            0
+        ]
+    },
+    "feature_864": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1856,
+            5952,
+            0
+        ],
+        "rotation": [
+            44055,
+            0,
+            0
+        ]
+    },
+    "feature_865": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            4544,
+            7488,
+            0
+        ],
+        "rotation": [
+            57890,
+            0,
+            0
+        ]
+    },
+    "feature_866": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            3264,
+            7104,
+            0
+        ],
+        "rotation": [
+            52065,
+            0,
+            0
+        ]
+    },
+    "feature_867": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            704,
+            4928,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_868": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            2496,
+            6336,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_869": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            4928,
+            7488,
+            0
+        ],
+        "rotation": [
+            58254,
+            0,
+            0
+        ]
+    },
+    "feature_870": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3136,
+            7744,
+            0
+        ],
+        "rotation": [
+            57708,
+            0,
+            0
+        ]
+    },
+    "feature_871": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            2752,
+            6464,
+            0
+        ],
+        "rotation": [
+            58800,
+            0,
+            0
+        ]
+    },
+    "feature_872": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            2240,
+            4032,
+            0
+        ],
+        "rotation": [
+            46785,
+            0,
+            0
+        ]
+    },
+    "feature_873": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1088,
+            1344,
+            0
+        ],
+        "rotation": [
+            55524,
+            0,
+            0
+        ]
+    },
+    "feature_874": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            1216,
+            3136,
+            0
+        ],
+        "rotation": [
+            39322,
+            0,
+            0
+        ]
+    },
+    "feature_875": {
+        "id": "Boulder3",
+        "name": "Boulder3",
+        "position": [
+            4672,
+            4800,
+            0
+        ],
+        "rotation": [
+            15110,
+            0,
+            0
+        ]
+    },
+    "feature_876": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            2752,
+            2496,
+            0
+        ],
+        "rotation": [
+            12925,
+            0,
+            0
+        ]
+    },
+    "feature_877": {
+        "id": "Boulder1",
+        "name": "Boulder1",
+        "position": [
+            3008,
+            3776,
+            0
+        ],
+        "rotation": [
+            41506,
+            0,
+            0
+        ]
+    },
+    "feature_878": {
+        "id": "Boulder2",
+        "name": "Boulder2",
+        "position": [
+            1728,
+            832,
+            0
+        ],
+        "rotation": [
+            54249,
+            0,
+            0
+        ]
+    },
+    "feature_879": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4672,
+            3264,
+            0
+        ],
+        "rotation": [
+            15292,
+            0,
+            0
+        ]
+    },
+    "feature_97": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7616,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "droid_51": {
+        "id": 51,
+        "position": [
+            2240,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_52": {
+        "id": 52,
+        "position": [
+            2368,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_53": {
+        "id": 53,
+        "position": [
+            2496,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_54": {
+        "id": 54,
+        "position": [
+            2624,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_570": {
+        "id": 570,
+        "position": [
+            29760,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_577": {
+        "id": 577,
+        "position": [
+            29760,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_580": {
+        "id": 580,
+        "position": [
+            29760,
+            2368,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_603": {
+        "id": 603,
+        "position": [
+            29760,
+            2496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_605": {
+        "id": 605,
+        "position": [
+            29376,
+            29760,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_612": {
+        "id": 612,
+        "position": [
+            29760,
+            29760,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_615": {
+        "id": 615,
+        "position": [
+            29632,
+            29760,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_638": {
+        "id": 638,
+        "position": [
+            29504,
+            29760,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_640": {
+        "id": 640,
+        "position": [
+            2240,
+            29376,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 4,
+        "template": "ConstructionDroid"
+    },
+    "droid_647": {
+        "id": 647,
+        "position": [
+            2240,
+            29760,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 4,
+        "template": "ConstructionDroid"
+    },
+    "droid_650": {
+        "id": 650,
+        "position": [
+            2240,
+            29632,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 4,
+        "template": "ConstructionDroid"
+    },
+    "droid_673": {
+        "id": 673,
+        "position": [
+            2240,
+            29504,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 4,
+        "template": "ConstructionDroid"
+    },
+    "droid_683": {
+        "id": 683,
+        "position": [
+            16576,
+            16064,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_684": {
+        "id": 684,
+        "position": [
+            16704,
+            16064,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_685": {
+        "id": 685,
+        "position": [
+            16832,
+            16064,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_686": {
+        "id": 686,
+        "position": [
+            16960,
+            16064,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    }
+}

@@ -1,0 +1,3422 @@
+{
+    "droid_3104": {
+        "id": 3104,
+        "position": [
+            1856,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_3105": {
+        "id": 3105,
+        "position": [
+            1984,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_3106": {
+        "id": 3106,
+        "position": [
+            2112,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_3117": {
+        "id": 3117,
+        "position": [
+            29504,
+            1856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_3118": {
+        "id": 3118,
+        "position": [
+            29632,
+            1856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_3119": {
+        "id": 3119,
+        "position": [
+            29760,
+            1856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_3130": {
+        "id": 3130,
+        "position": [
+            30272,
+            29632,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_3131": {
+        "id": 3131,
+        "position": [
+            30144,
+            29632,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_3132": {
+        "id": 3132,
+        "position": [
+            30016,
+            29632,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_3143": {
+        "id": 3143,
+        "position": [
+            1856,
+            30144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_3144": {
+        "id": 3144,
+        "position": [
+            1984,
+            30144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_3145": {
+        "id": 3145,
+        "position": [
+            2112,
+            30144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_3146": {
+        "id": 3146,
+        "position": [
+            1600,
+            5824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_3147": {
+        "id": 3147,
+        "position": [
+            26304,
+            1600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_3148": {
+        "id": 3148,
+        "position": [
+            30528,
+            26304,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 2,
+        "template": "ConstructionDroid"
+    },
+    "droid_3149": {
+        "id": 3149,
+        "position": [
+            5696,
+            30400,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 3,
+        "template": "ConstructionDroid"
+    },
+    "droid_3224": {
+        "id": 3224,
+        "player": "scavenger",
+        "position": [
+            14528,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3225": {
+        "id": 3225,
+        "player": "scavenger",
+        "position": [
+            14528,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3226": {
+        "id": 3226,
+        "player": "scavenger",
+        "position": [
+            14528,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3227": {
+        "id": 3227,
+        "player": "scavenger",
+        "position": [
+            14528,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3228": {
+        "id": 3228,
+        "player": "scavenger",
+        "position": [
+            14528,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3229": {
+        "id": 3229,
+        "player": "scavenger",
+        "position": [
+            14656,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3230": {
+        "id": 3230,
+        "player": "scavenger",
+        "position": [
+            14656,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3231": {
+        "id": 3231,
+        "player": "scavenger",
+        "position": [
+            14656,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3232": {
+        "id": 3232,
+        "player": "scavenger",
+        "position": [
+            14656,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3233": {
+        "id": 3233,
+        "player": "scavenger",
+        "position": [
+            14656,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3234": {
+        "id": 3234,
+        "player": "scavenger",
+        "position": [
+            14784,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3235": {
+        "id": 3235,
+        "player": "scavenger",
+        "position": [
+            14784,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3236": {
+        "id": 3236,
+        "player": "scavenger",
+        "position": [
+            14784,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3237": {
+        "id": 3237,
+        "player": "scavenger",
+        "position": [
+            14784,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3238": {
+        "id": 3238,
+        "player": "scavenger",
+        "position": [
+            14784,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3239": {
+        "id": 3239,
+        "player": "scavenger",
+        "position": [
+            14912,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3240": {
+        "id": 3240,
+        "player": "scavenger",
+        "position": [
+            14912,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3241": {
+        "id": 3241,
+        "player": "scavenger",
+        "position": [
+            14912,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3242": {
+        "id": 3242,
+        "player": "scavenger",
+        "position": [
+            14912,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3243": {
+        "id": 3243,
+        "player": "scavenger",
+        "position": [
+            14912,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3244": {
+        "id": 3244,
+        "player": "scavenger",
+        "position": [
+            15040,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3245": {
+        "id": 3245,
+        "player": "scavenger",
+        "position": [
+            15040,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3246": {
+        "id": 3246,
+        "player": "scavenger",
+        "position": [
+            15040,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3247": {
+        "id": 3247,
+        "player": "scavenger",
+        "position": [
+            15040,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3248": {
+        "id": 3248,
+        "player": "scavenger",
+        "position": [
+            15040,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3249": {
+        "id": 3249,
+        "player": "scavenger",
+        "position": [
+            15168,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3250": {
+        "id": 3250,
+        "player": "scavenger",
+        "position": [
+            15168,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3251": {
+        "id": 3251,
+        "player": "scavenger",
+        "position": [
+            15168,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3252": {
+        "id": 3252,
+        "player": "scavenger",
+        "position": [
+            15296,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3253": {
+        "id": 3253,
+        "player": "scavenger",
+        "position": [
+            15296,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3254": {
+        "id": 3254,
+        "player": "scavenger",
+        "position": [
+            15296,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3255": {
+        "id": 3255,
+        "player": "scavenger",
+        "position": [
+            15424,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3256": {
+        "id": 3256,
+        "player": "scavenger",
+        "position": [
+            15552,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3257": {
+        "id": 3257,
+        "player": "scavenger",
+        "position": [
+            15680,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3258": {
+        "id": 3258,
+        "player": "scavenger",
+        "position": [
+            15680,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3259": {
+        "id": 3259,
+        "player": "scavenger",
+        "position": [
+            15552,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3260": {
+        "id": 3260,
+        "player": "scavenger",
+        "position": [
+            15424,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3261": {
+        "id": 3261,
+        "player": "scavenger",
+        "position": [
+            14144,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3262": {
+        "id": 3262,
+        "player": "scavenger",
+        "position": [
+            14272,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3263": {
+        "id": 3263,
+        "player": "scavenger",
+        "position": [
+            14400,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3264": {
+        "id": 3264,
+        "player": "scavenger",
+        "position": [
+            14400,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3265": {
+        "id": 3265,
+        "player": "scavenger",
+        "position": [
+            14272,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3266": {
+        "id": 3266,
+        "player": "scavenger",
+        "position": [
+            14144,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3267": {
+        "id": 3267,
+        "player": "scavenger",
+        "position": [
+            14016,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3268": {
+        "id": 3268,
+        "player": "scavenger",
+        "position": [
+            14272,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3269": {
+        "id": 3269,
+        "player": "scavenger",
+        "position": [
+            14400,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3270": {
+        "id": 3270,
+        "player": "scavenger",
+        "position": [
+            14528,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3271": {
+        "id": 3271,
+        "player": "scavenger",
+        "position": [
+            14656,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3272": {
+        "id": 3272,
+        "player": "scavenger",
+        "position": [
+            14784,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3273": {
+        "id": 3273,
+        "player": "scavenger",
+        "position": [
+            14912,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3274": {
+        "id": 3274,
+        "player": "scavenger",
+        "position": [
+            15040,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3275": {
+        "id": 3275,
+        "player": "scavenger",
+        "position": [
+            15168,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3276": {
+        "id": 3276,
+        "player": "scavenger",
+        "position": [
+            15296,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3363": {
+        "id": 3363,
+        "player": "scavenger",
+        "position": [
+            16960,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3364": {
+        "id": 3364,
+        "player": "scavenger",
+        "position": [
+            16832,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3365": {
+        "id": 3365,
+        "player": "scavenger",
+        "position": [
+            16704,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3366": {
+        "id": 3366,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3367": {
+        "id": 3367,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3368": {
+        "id": 3368,
+        "player": "scavenger",
+        "position": [
+            16960,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3369": {
+        "id": 3369,
+        "player": "scavenger",
+        "position": [
+            16832,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3370": {
+        "id": 3370,
+        "player": "scavenger",
+        "position": [
+            16704,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3371": {
+        "id": 3371,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3372": {
+        "id": 3372,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3373": {
+        "id": 3373,
+        "player": "scavenger",
+        "position": [
+            16960,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3374": {
+        "id": 3374,
+        "player": "scavenger",
+        "position": [
+            16832,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3375": {
+        "id": 3375,
+        "player": "scavenger",
+        "position": [
+            16704,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3376": {
+        "id": 3376,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3377": {
+        "id": 3377,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3378": {
+        "id": 3378,
+        "player": "scavenger",
+        "position": [
+            16960,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3379": {
+        "id": 3379,
+        "player": "scavenger",
+        "position": [
+            16832,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3380": {
+        "id": 3380,
+        "player": "scavenger",
+        "position": [
+            16704,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3381": {
+        "id": 3381,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3382": {
+        "id": 3382,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3383": {
+        "id": 3383,
+        "player": "scavenger",
+        "position": [
+            16960,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3384": {
+        "id": 3384,
+        "player": "scavenger",
+        "position": [
+            16832,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3385": {
+        "id": 3385,
+        "player": "scavenger",
+        "position": [
+            16704,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3386": {
+        "id": 3386,
+        "player": "scavenger",
+        "position": [
+            16576,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3387": {
+        "id": 3387,
+        "player": "scavenger",
+        "position": [
+            16448,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3388": {
+        "id": 3388,
+        "player": "scavenger",
+        "position": [
+            16960,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3389": {
+        "id": 3389,
+        "player": "scavenger",
+        "position": [
+            16704,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3390": {
+        "id": 3390,
+        "player": "scavenger",
+        "position": [
+            16448,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3391": {
+        "id": 3391,
+        "player": "scavenger",
+        "position": [
+            16448,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3392": {
+        "id": 3392,
+        "player": "scavenger",
+        "position": [
+            16704,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3393": {
+        "id": 3393,
+        "player": "scavenger",
+        "position": [
+            16960,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3394": {
+        "id": 3394,
+        "player": "scavenger",
+        "position": [
+            16960,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3395": {
+        "id": 3395,
+        "player": "scavenger",
+        "position": [
+            16960,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3396": {
+        "id": 3396,
+        "player": "scavenger",
+        "position": [
+            16960,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3397": {
+        "id": 3397,
+        "player": "scavenger",
+        "position": [
+            16704,
+            15680,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3398": {
+        "id": 3398,
+        "player": "scavenger",
+        "position": [
+            16704,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3399": {
+        "id": 3399,
+        "player": "scavenger",
+        "position": [
+            16704,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3400": {
+        "id": 3400,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3401": {
+        "id": 3401,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3402": {
+        "id": 3402,
+        "player": "scavenger",
+        "position": [
+            16576,
+            14400,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3403": {
+        "id": 3403,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14400,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3404": {
+        "id": 3404,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3405": {
+        "id": 3405,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3406": {
+        "id": 3406,
+        "player": "scavenger",
+        "position": [
+            16448,
+            14016,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3407": {
+        "id": 3407,
+        "player": "scavenger",
+        "position": [
+            16320,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3408": {
+        "id": 3408,
+        "player": "scavenger",
+        "position": [
+            16320,
+            14400,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3409": {
+        "id": 3409,
+        "player": "scavenger",
+        "position": [
+            16320,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3410": {
+        "id": 3410,
+        "player": "scavenger",
+        "position": [
+            16320,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3411": {
+        "id": 3411,
+        "player": "scavenger",
+        "position": [
+            16320,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3412": {
+        "id": 3412,
+        "player": "scavenger",
+        "position": [
+            16320,
+            14912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3413": {
+        "id": 3413,
+        "player": "scavenger",
+        "position": [
+            16320,
+            15040,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3414": {
+        "id": 3414,
+        "player": "scavenger",
+        "position": [
+            16320,
+            15168,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3415": {
+        "id": 3415,
+        "player": "scavenger",
+        "position": [
+            16320,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3502": {
+        "id": 3502,
+        "player": "scavenger",
+        "position": [
+            17472,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3503": {
+        "id": 3503,
+        "player": "scavenger",
+        "position": [
+            17472,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3504": {
+        "id": 3504,
+        "player": "scavenger",
+        "position": [
+            17472,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3505": {
+        "id": 3505,
+        "player": "scavenger",
+        "position": [
+            17472,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3506": {
+        "id": 3506,
+        "player": "scavenger",
+        "position": [
+            17472,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3507": {
+        "id": 3507,
+        "player": "scavenger",
+        "position": [
+            17344,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3508": {
+        "id": 3508,
+        "player": "scavenger",
+        "position": [
+            17344,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3509": {
+        "id": 3509,
+        "player": "scavenger",
+        "position": [
+            17344,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3510": {
+        "id": 3510,
+        "player": "scavenger",
+        "position": [
+            17344,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3511": {
+        "id": 3511,
+        "player": "scavenger",
+        "position": [
+            17344,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3512": {
+        "id": 3512,
+        "player": "scavenger",
+        "position": [
+            17216,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3513": {
+        "id": 3513,
+        "player": "scavenger",
+        "position": [
+            17216,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3514": {
+        "id": 3514,
+        "player": "scavenger",
+        "position": [
+            17216,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3515": {
+        "id": 3515,
+        "player": "scavenger",
+        "position": [
+            17216,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3516": {
+        "id": 3516,
+        "player": "scavenger",
+        "position": [
+            17216,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3517": {
+        "id": 3517,
+        "player": "scavenger",
+        "position": [
+            17088,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3518": {
+        "id": 3518,
+        "player": "scavenger",
+        "position": [
+            17088,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3519": {
+        "id": 3519,
+        "player": "scavenger",
+        "position": [
+            17088,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3520": {
+        "id": 3520,
+        "player": "scavenger",
+        "position": [
+            17088,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3521": {
+        "id": 3521,
+        "player": "scavenger",
+        "position": [
+            17088,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3522": {
+        "id": 3522,
+        "player": "scavenger",
+        "position": [
+            16960,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3523": {
+        "id": 3523,
+        "player": "scavenger",
+        "position": [
+            16960,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3524": {
+        "id": 3524,
+        "player": "scavenger",
+        "position": [
+            16960,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3525": {
+        "id": 3525,
+        "player": "scavenger",
+        "position": [
+            16960,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3526": {
+        "id": 3526,
+        "player": "scavenger",
+        "position": [
+            16960,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3527": {
+        "id": 3527,
+        "player": "scavenger",
+        "position": [
+            16832,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3528": {
+        "id": 3528,
+        "player": "scavenger",
+        "position": [
+            16832,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3529": {
+        "id": 3529,
+        "player": "scavenger",
+        "position": [
+            16832,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3530": {
+        "id": 3530,
+        "player": "scavenger",
+        "position": [
+            16704,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3531": {
+        "id": 3531,
+        "player": "scavenger",
+        "position": [
+            16704,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3532": {
+        "id": 3532,
+        "player": "scavenger",
+        "position": [
+            16704,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3533": {
+        "id": 3533,
+        "player": "scavenger",
+        "position": [
+            16576,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3534": {
+        "id": 3534,
+        "player": "scavenger",
+        "position": [
+            16448,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3535": {
+        "id": 3535,
+        "player": "scavenger",
+        "position": [
+            16320,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3536": {
+        "id": 3536,
+        "player": "scavenger",
+        "position": [
+            16320,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3537": {
+        "id": 3537,
+        "player": "scavenger",
+        "position": [
+            16448,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3538": {
+        "id": 3538,
+        "player": "scavenger",
+        "position": [
+            16576,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3539": {
+        "id": 3539,
+        "player": "scavenger",
+        "position": [
+            17856,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3540": {
+        "id": 3540,
+        "player": "scavenger",
+        "position": [
+            17728,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3541": {
+        "id": 3541,
+        "player": "scavenger",
+        "position": [
+            17600,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3542": {
+        "id": 3542,
+        "player": "scavenger",
+        "position": [
+            17600,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3543": {
+        "id": 3543,
+        "player": "scavenger",
+        "position": [
+            17728,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3544": {
+        "id": 3544,
+        "player": "scavenger",
+        "position": [
+            17856,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3545": {
+        "id": 3545,
+        "player": "scavenger",
+        "position": [
+            17984,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3546": {
+        "id": 3546,
+        "player": "scavenger",
+        "position": [
+            17728,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3547": {
+        "id": 3547,
+        "player": "scavenger",
+        "position": [
+            17600,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3548": {
+        "id": 3548,
+        "player": "scavenger",
+        "position": [
+            17472,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3549": {
+        "id": 3549,
+        "player": "scavenger",
+        "position": [
+            17344,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3550": {
+        "id": 3550,
+        "player": "scavenger",
+        "position": [
+            17216,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3551": {
+        "id": 3551,
+        "player": "scavenger",
+        "position": [
+            17088,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3552": {
+        "id": 3552,
+        "player": "scavenger",
+        "position": [
+            16960,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3553": {
+        "id": 3553,
+        "player": "scavenger",
+        "position": [
+            16832,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3554": {
+        "id": 3554,
+        "player": "scavenger",
+        "position": [
+            16704,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3641": {
+        "id": 3641,
+        "player": "scavenger",
+        "position": [
+            15040,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3642": {
+        "id": 3642,
+        "player": "scavenger",
+        "position": [
+            15168,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3643": {
+        "id": 3643,
+        "player": "scavenger",
+        "position": [
+            15296,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3644": {
+        "id": 3644,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3645": {
+        "id": 3645,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianTrike"
+    },
+    "droid_3646": {
+        "id": 3646,
+        "player": "scavenger",
+        "position": [
+            15040,
+            17344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3647": {
+        "id": 3647,
+        "player": "scavenger",
+        "position": [
+            15168,
+            17344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3648": {
+        "id": 3648,
+        "player": "scavenger",
+        "position": [
+            15296,
+            17344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3649": {
+        "id": 3649,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3650": {
+        "id": 3650,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianBuggy"
+    },
+    "droid_3651": {
+        "id": 3651,
+        "player": "scavenger",
+        "position": [
+            15040,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3652": {
+        "id": 3652,
+        "player": "scavenger",
+        "position": [
+            15168,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3653": {
+        "id": 3653,
+        "player": "scavenger",
+        "position": [
+            15296,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3654": {
+        "id": 3654,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3655": {
+        "id": 3655,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaJeep"
+    },
+    "droid_3656": {
+        "id": 3656,
+        "player": "scavenger",
+        "position": [
+            15040,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3657": {
+        "id": 3657,
+        "player": "scavenger",
+        "position": [
+            15168,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3658": {
+        "id": 3658,
+        "player": "scavenger",
+        "position": [
+            15296,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3659": {
+        "id": 3659,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3660": {
+        "id": 3660,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaRKJeep"
+    },
+    "droid_3661": {
+        "id": 3661,
+        "player": "scavenger",
+        "position": [
+            15040,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3662": {
+        "id": 3662,
+        "player": "scavenger",
+        "position": [
+            15168,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3663": {
+        "id": 3663,
+        "player": "scavenger",
+        "position": [
+            15296,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3664": {
+        "id": 3664,
+        "player": "scavenger",
+        "position": [
+            15424,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3665": {
+        "id": 3665,
+        "player": "scavenger",
+        "position": [
+            15552,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BarbarianRKBuggy"
+    },
+    "droid_3666": {
+        "id": 3666,
+        "player": "scavenger",
+        "position": [
+            15040,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3667": {
+        "id": 3667,
+        "player": "scavenger",
+        "position": [
+            15296,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3668": {
+        "id": 3668,
+        "player": "scavenger",
+        "position": [
+            15552,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3669": {
+        "id": 3669,
+        "player": "scavenger",
+        "position": [
+            15552,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3670": {
+        "id": 3670,
+        "player": "scavenger",
+        "position": [
+            15296,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3671": {
+        "id": 3671,
+        "player": "scavenger",
+        "position": [
+            15040,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaBusCan"
+    },
+    "droid_3672": {
+        "id": 3672,
+        "player": "scavenger",
+        "position": [
+            15040,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3673": {
+        "id": 3673,
+        "player": "scavenger",
+        "position": [
+            15040,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3674": {
+        "id": 3674,
+        "player": "scavenger",
+        "position": [
+            15040,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3675": {
+        "id": 3675,
+        "player": "scavenger",
+        "position": [
+            15296,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3676": {
+        "id": 3676,
+        "player": "scavenger",
+        "position": [
+            15296,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3677": {
+        "id": 3677,
+        "player": "scavenger",
+        "position": [
+            15296,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BabaFireCan"
+    },
+    "droid_3678": {
+        "id": 3678,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3679": {
+        "id": 3679,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17728,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3680": {
+        "id": 3680,
+        "player": "scavenger",
+        "position": [
+            15424,
+            17600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3681": {
+        "id": 3681,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3682": {
+        "id": 3682,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17728,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3683": {
+        "id": 3683,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3684": {
+        "id": 3684,
+        "player": "scavenger",
+        "position": [
+            15552,
+            17984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3685": {
+        "id": 3685,
+        "player": "scavenger",
+        "position": [
+            15680,
+            17728,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3686": {
+        "id": 3686,
+        "player": "scavenger",
+        "position": [
+            15680,
+            17600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3687": {
+        "id": 3687,
+        "player": "scavenger",
+        "position": [
+            15680,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3688": {
+        "id": 3688,
+        "player": "scavenger",
+        "position": [
+            15680,
+            17344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3689": {
+        "id": 3689,
+        "player": "scavenger",
+        "position": [
+            15680,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3690": {
+        "id": 3690,
+        "player": "scavenger",
+        "position": [
+            15680,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3691": {
+        "id": 3691,
+        "player": "scavenger",
+        "position": [
+            15680,
+            16960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3692": {
+        "id": 3692,
+        "player": "scavenger",
+        "position": [
+            15680,
+            16832,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    },
+    "droid_3693": {
+        "id": 3693,
+        "player": "scavenger",
+        "position": [
+            15680,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "BaBaPeople"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "droid_128": {
+        "id": 128,
+        "position": [
+            2368,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_129": {
+        "id": 129,
+        "position": [
+            2752,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_130": {
+        "id": 130,
+        "position": [
+            12608,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_131": {
+        "id": 131,
+        "position": [
+            12992,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    }
+}

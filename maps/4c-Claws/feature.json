@@ -1,0 +1,3082 @@
+{
+    "feature_100": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            19263,
+            23360,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_101": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            19391,
+            23360,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_102": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            18687,
+            14208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_103": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            19007,
+            14144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_104": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            19007,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_105": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            19263,
+            14144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_106": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            21183,
+            23616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_107": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            21439,
+            24000,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_108": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            21695,
+            23872,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_109": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            21183,
+            23872,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_110": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            21311,
+            24128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_133": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2751,
+            14015,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_134": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2367,
+            13759,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_135": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2623,
+            13503,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_136": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4671,
+            23743,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_137": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3007,
+            22975,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_138": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            1343,
+            23359,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_139": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            12351,
+            23103,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_140": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            8127,
+            13887,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_141": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            5823,
+            14015,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_142": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3775,
+            15551,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_143": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            6207,
+            24383,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_144": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            12351,
+            16191,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_145": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            10303,
+            14783,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_146": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            10047,
+            14911,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_147": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            11711,
+            14143,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_148": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            2879,
+            13759,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_149": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            5567,
+            13759,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_150": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3391,
+            22335,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_151": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            12479,
+            15935,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_152": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            12607,
+            15679,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_153": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            2239,
+            19007,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_154": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            2239,
+            19135,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_155": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            2239,
+            19263,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_156": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            2239,
+            19391,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_157": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            11391,
+            18687,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_158": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            11455,
+            19007,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_159": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            11327,
+            19007,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_160": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            11455,
+            19263,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_161": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            1983,
+            21183,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_162": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            1599,
+            21439,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_163": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            1727,
+            21695,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_164": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            1727,
+            21183,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_165": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            1471,
+            21311,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_188": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            11584,
+            2751,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_189": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            11840,
+            2367,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_190": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            12096,
+            2623,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_191": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            1856,
+            4671,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_192": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2624,
+            3007,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_193": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2240,
+            1343,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_194": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2496,
+            12351,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_195": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            11712,
+            8127,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_196": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            11584,
+            5823,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_197": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            10048,
+            3775,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_198": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            1216,
+            6207,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_199": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            9408,
+            12351,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_200": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            10816,
+            10303,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_201": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            10688,
+            10047,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_202": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            11456,
+            11711,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_203": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            11840,
+            2879,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_204": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            11840,
+            5567,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_205": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            3264,
+            3391,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_206": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            9664,
+            12479,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_207": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            9920,
+            12607,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_208": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            6592,
+            2239,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_209": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            6464,
+            2239,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_210": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            6336,
+            2239,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_211": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            6208,
+            2239,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_212": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            6912,
+            11391,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_213": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            6592,
+            11455,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_214": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            6592,
+            11327,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_215": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            6336,
+            11455,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_216": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4416,
+            1983,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_217": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4160,
+            1599,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_218": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            3904,
+            1727,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_219": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4416,
+            1727,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_220": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            4288,
+            1471,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_23": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            22848,
+            11584,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_24": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            23232,
+            11840,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_25": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            22976,
+            12096,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_26": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            20928,
+            1856,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_27": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            22592,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_28": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            24256,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_29": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            13248,
+            2496,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_30": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            17472,
+            11712,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_31": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            19776,
+            11584,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_32": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            21824,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_33": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            19392,
+            1216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_34": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            13248,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_346": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            23616,
+            24128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_347": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            19648,
+            22464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_348": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            19008,
+            22208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_349": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            22592,
+            22464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_35": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            15296,
+            10816,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_351": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1472,
+            23616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_352": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3136,
+            22592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_353": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3136,
+            19648,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_354": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3392,
+            19008,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_355": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3392,
+            15424,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_358": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15424,
+            22208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_359": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3776,
+            6208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_36": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            15552,
+            10688,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_360": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1984,
+            8384,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_361": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1600,
+            9024,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_362": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            2880,
+            8384,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_363": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4800,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_364": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5696,
+            9792,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_365": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6336,
+            10048,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_366": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7488,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_367": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9664,
+            9152,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_368": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            10944,
+            8512,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_369": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            11456,
+            7872,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_37": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            13888,
+            11456,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_370": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9280,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_371": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8896,
+            10816,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_372": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4544,
+            11200,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_373": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5440,
+            11328,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_374": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7616,
+            11072,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_375": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            11328,
+            11200,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_376": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14400,
+            11328,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_377": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            11200,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_378": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14272,
+            14400,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_379": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            17728,
+            11456,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_38": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            22720,
+            11840,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_380": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            17088,
+            10944,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_381": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            16448,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_382": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            19136,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_383": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14784,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_384": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15936,
+            7488,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_385": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14528,
+            7616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_386": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15552,
+            6336,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_387": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15808,
+            5696,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_388": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14272,
+            5440,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_389": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14400,
+            4544,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_39": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            20032,
+            11840,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_390": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            16576,
+            1600,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_391": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            17216,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_392": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            17216,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_393": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            16320,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_394": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            19392,
+            3776,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_395": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6464,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_396": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7872,
+            14144,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_397": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8512,
+            14656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_398": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9152,
+            15936,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_399": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            10816,
+            16704,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_40": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            22208,
+            3264,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_400": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            11072,
+            17984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_401": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9664,
+            18112,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_402": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            10048,
+            19264,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_403": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9792,
+            19904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_404": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9280,
+            20800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_405": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            11200,
+            21056,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_406": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9024,
+            24000,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_407": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8384,
+            23616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_409": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6208,
+            21824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_41": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            13120,
+            9664,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_410": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            11328,
+            20160,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_411": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8384,
+            22720,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_412": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            16320,
+            19136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_413": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14144,
+            17728,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_414": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            14656,
+            17088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_415": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15936,
+            16448,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_416": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            16704,
+            14784,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_417": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            18112,
+            15936,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_418": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            17984,
+            14528,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_419": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            20160,
+            14272,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_42": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            12992,
+            9920,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_420": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            19264,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_421": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            19904,
+            15808,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_422": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            20800,
+            16320,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_423": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            22720,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_424": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            23616,
+            17216,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_425": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            21824,
+            19392,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_426": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            24000,
+            16576,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_427": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            21056,
+            14400,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_428": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1984,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_429": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5952,
+            3136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_43": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            23360,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_430": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6592,
+            3392,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_431": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            10176,
+            3392,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_432": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3008,
+            3136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_433": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            22464,
+            3008,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_434": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            24128,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_435": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            22208,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_436": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            22464,
+            5952,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_437": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            22208,
+            10176,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_44": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            23360,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_45": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            23360,
+            6336,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_46": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            23360,
+            6208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_47": {
+        "id": "OldFactory",
+        "name": "OldFactory",
+        "position": [
+            14208,
+            6912,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_48": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            14144,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_49": {
+        "id": "OilTower",
+        "name": "OilTower",
+        "position": [
+            14272,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_50": {
+        "id": "WaterTower",
+        "name": "WaterTower",
+        "position": [
+            14144,
+            6336,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_51": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            23616,
+            4416,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_52": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            24000,
+            4160,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_53": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            23872,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_54": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            23872,
+            4416,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_55": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            24128,
+            4288,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_78": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            14015,
+            22848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_79": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            13759,
+            23232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_80": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            13503,
+            22976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_81": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            23743,
+            20928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_82": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            22975,
+            22592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_83": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            23359,
+            24256,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_84": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            23103,
+            13248,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_85": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            13887,
+            17472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_86": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            14015,
+            19776,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_87": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            15551,
+            21824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_88": {
+        "id": "Ruin4",
+        "name": "Ruin4",
+        "position": [
+            24383,
+            19392,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_89": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            16191,
+            13248,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_90": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            14783,
+            15296,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_91": {
+        "id": "Ruin3",
+        "name": "Ruin3",
+        "position": [
+            14911,
+            15552,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_92": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            14143,
+            13888,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_93": {
+        "id": "Ruin1",
+        "name": "Ruin1",
+        "position": [
+            13759,
+            22720,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_94": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            13759,
+            20032,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_95": {
+        "id": "miruin2",
+        "name": "miruin2",
+        "position": [
+            22335,
+            22208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_96": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            15935,
+            13120,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_97": {
+        "id": "BarbHUT",
+        "name": "BarbHUT",
+        "position": [
+            15679,
+            12992,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_98": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            19007,
+            23360,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_99": {
+        "id": "OilDrum",
+        "name": "OilDrum",
+        "position": [
+            19135,
+            23360,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    }
+}

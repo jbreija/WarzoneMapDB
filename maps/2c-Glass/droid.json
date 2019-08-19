@@ -1,0 +1,692 @@
+{
+    "droid_135": {
+        "id": 135,
+        "position": [
+            5696,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ConstructionDroid"
+    },
+    "droid_142": {
+        "id": 142,
+        "position": [
+            11968,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ConstructionDroid"
+    },
+    "droid_264": {
+        "id": 264,
+        "position": [
+            5440,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "CobraHoverTruck"
+    },
+    "droid_265": {
+        "id": 265,
+        "position": [
+            5952,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ScorpHoverTruck"
+    },
+    "droid_266": {
+        "id": 266,
+        "position": [
+            11712,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ScorpHoverTruck"
+    },
+    "droid_267": {
+        "id": 267,
+        "position": [
+            12224,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "CobraHoverTruck"
+    },
+    "droid_268": {
+        "droidType": 0,
+        "id": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "name": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "TUTMG",
+        "parts\\weapon\\2": "TUTMG",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8768,
+            5824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_269": {
+        "droidType": 0,
+        "id": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "name": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "TUTMG",
+        "parts\\weapon\\2": "TUTMG",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8896,
+            5824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_270": {
+        "droidType": 0,
+        "id": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "name": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "TUTMG",
+        "parts\\weapon\\2": "TUTMG",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8768,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_271": {
+        "droidType": 0,
+        "id": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "name": "Machinegun Machinegun *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "TUTMG",
+        "parts\\weapon\\2": "TUTMG",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8896,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_272": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8640,
+            5824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_273": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            9024,
+            5824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_274": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8640,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_275": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            9024,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_276": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8128,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_277": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            8128,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_278": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            9536,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_279": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            9536,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_292": {
+        "id": 292,
+        "player": "scavenger",
+        "position": [
+            8512,
+            4544,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "CobraHoverTruck"
+    },
+    "droid_293": {
+        "id": 293,
+        "player": "scavenger",
+        "position": [
+            9152,
+            4544,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "template": "ScorpHoverTruck"
+    },
+    "droid_304": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            832,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_305": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            832,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_306": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            1216,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_307": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            1216,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_308": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            16448,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_309": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            16448,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_310": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            16832,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_311": {
+        "droidType": 0,
+        "id": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "name": "Mini-Rocket Array *Z NULL Weapon* *Z NULL Weapon* Viper Hover",
+        "parts\\body": "Body1REC",
+        "parts\\brain": "ZNULLBRAIN",
+        "parts\\construct": "ZNULLCONSTRUCT",
+        "parts\\ecm": "ZNULLECM",
+        "parts\\propulsion": "hover01",
+        "parts\\repair": "ZNULLREPAIR",
+        "parts\\sensor": "ZNULLSENSOR",
+        "parts\\weapon\\1": "Rocket-MRL",
+        "parts\\weapon\\2": "ZNULLWEAPON",
+        "parts\\weapon\\3": "ZNULLWEAPON",
+        "player": "scavenger",
+        "position": [
+            16832,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "weapons": 3
+    },
+    "droid_491": {
+        "id": 491,
+        "position": [
+            6080,
+            4544,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 0,
+        "template": "ViperRepairWheels"
+    },
+    "droid_492": {
+        "id": 492,
+        "position": [
+            11584,
+            4544,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "startpos": 1,
+        "template": "ViperRepairWheels"
+    }
+}

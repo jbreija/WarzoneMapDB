@@ -1,0 +1,926 @@
+{
+    "feature_10": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3904,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_11": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5184,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_12": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5696,
+            3264,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_13": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8256,
+            3136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_14": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            7232,
+            1344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_15": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2496,
+            4544,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_16": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2624,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_17": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            2752,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_18": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3264,
+            4160,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_19": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3520,
+            4288,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_20": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            3648,
+            4032,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_21": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4160,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_22": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4288,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_23": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            4544,
+            1984,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_24": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            3904,
+            2752,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_25": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            4032,
+            2880,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_26": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            4032,
+            3136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_27": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            3904,
+            3392,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_28": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            4288,
+            3776,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_29": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            4672,
+            3904,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_30": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            5568,
+            3008,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_31": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            5312,
+            2624,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_32": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            5184,
+            2240,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_33": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            2112,
+            3392,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_34": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            2368,
+            3520,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_35": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            2752,
+            3136,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_36": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            2240,
+            4928,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_37": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            3136,
+            4800,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_46": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            9152,
+            8896,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_47": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8896,
+            9024,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_48": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8640,
+            9280,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_49": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8256,
+            9408,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_5": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1088,
+            1472,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_50": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            8384,
+            5696,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_51": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            6336,
+            5696,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_52": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            5056,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_53": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            4544,
+            7104,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_54": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1984,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_55": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            3008,
+            9024,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_56": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            7744,
+            5824,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_57": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            7616,
+            5696,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_58": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            7488,
+            5568,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_59": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6976,
+            6208,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_6": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1344,
+            1344,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_60": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6720,
+            6080,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_61": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6592,
+            6336,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_62": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            6080,
+            8128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_63": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5952,
+            8384,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_64": {
+        "id": "Ruin5",
+        "name": "Ruin5",
+        "position": [
+            5696,
+            8384,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_65": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            6336,
+            7616,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_66": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            6208,
+            7488,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_67": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            6208,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_68": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            6336,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_69": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            5952,
+            6592,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_7": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1600,
+            1088,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_70": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            5568,
+            6464,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_71": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            4672,
+            7360,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_72": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            4928,
+            7744,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_73": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            5056,
+            8128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_74": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            8128,
+            6976,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_75": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            7872,
+            6848,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_76": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            7488,
+            7232,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_77": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            8000,
+            5440,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_78": {
+        "id": "arizonabush1",
+        "name": "arizonabush1",
+        "position": [
+            7104,
+            5568,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_8": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1984,
+            960,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_9": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            1856,
+            4672,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    }
+}
