@@ -1385,62 +1385,6 @@
             0
         ]
     },
-    "feature_1231": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            15936,
-            8768,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1232": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            15936,
-            8896,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1233": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            15936,
-            8128,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1234": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            15936,
-            8000,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
     "feature_1235": {
         "id": "OilTower",
         "name": "OilTower",
@@ -1489,62 +1433,6 @@
         "position": [
             7744,
             448,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1239": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            192,
-            7744,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1240": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            192,
-            7616,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1241": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            192,
-            8512,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_1242": {
-        "id": "OilTower",
-        "name": "OilTower",
-        "position": [
-            192,
-            8384,
             0
         ],
         "rotation": [
@@ -2637,6 +2525,62 @@
         "position": [
             6016,
             6656,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1673": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            704,
+            8128,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1674": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            704,
+            8000,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1677": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15424,
+            8512,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ]
+    },
+    "feature_1678": {
+        "id": "OilResource",
+        "name": "OilResource",
+        "position": [
+            15424,
+            8384,
             0
         ],
         "rotation": [
@@ -11787,34 +11731,6 @@
             0
         ]
     },
-    "feature_971": {
-        "id": "OilResource",
-        "name": "OilResource",
-        "position": [
-            15808,
-            8384,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_972": {
-        "id": "OilResource",
-        "name": "OilResource",
-        "position": [
-            15808,
-            8512,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
     "feature_973": {
         "id": "OilResource",
         "name": "OilResource",
@@ -11835,34 +11751,6 @@
         "position": [
             8256,
             576,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_975": {
-        "id": "OilResource",
-        "name": "OilResource",
-        "position": [
-            320,
-            8000,
-            0
-        ],
-        "rotation": [
-            0,
-            0,
-            0
-        ]
-    },
-    "feature_976": {
-        "id": "OilResource",
-        "name": "OilResource",
-        "position": [
-            320,
-            8128,
             0
         ],
         "rotation": [
