@@ -291,4 +291,3 @@ If you are an author and would like to modify your map or author name then pleas
 |6c-LightHills	|	 Author: tomato_Rex  	|	 Date: 2014/01/14 14:00:24  	|	 Made with FlaME 1.29 Windows  	|	 License: CC BY-SA 3.0 + GPL v2+|
 |8c-StoneJungle	|	 Author: vaut  	|	 Date: 2017/10/07 16:15:45  	|	 Made with FlaME 1.29 Mono 2.10  	|	 License: CC0|
 |8c-TeamwarOriginal	|	 Author: WCS_Armagedon and WCS_Harvest	|	 Date: 1999/xx/xx 00:00:00  	|	 Made with Edit World	|	 License: Public Domain|
-|
