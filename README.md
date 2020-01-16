@@ -8,6 +8,8 @@ The output format of the maps (.ini) needs converting to .json before a map can 
 
 If you are an author and would like to modify your map or author name then please let me know.
 
+I would also like to let the Warzone2100 community know about Prot's WZ map database that can be found here https://wz2100.euphobos.ru/ Cheers!
+
 |MAP_NAME	|	AUTHOR_NAME	|	DATE_CREATED	|	MAP_EDITOR	|	SOFTWARE_LICENSE|
 | - | - | - | - | - |
 |2c-Daemmerung	|	 Author: ???	|	 Date: 2012/08/06 21:29:37  	|	 Made with FlaME 1.29 Windows  	|	 License: GPL 2+|
